@@ -11,7 +11,7 @@ function mapInit() {
       tileSize: 512,
       zoomOffset: -1,
       accessToken:
-        "pk.eyJ1IjoiYWphbnplbiIsImEiOiJja20zbW8xbWYwOXhhMnhsY3lobm54eGExIn0.dgNx_huZHi6xjYl4nsIZ1g",
+        'pk.eyJ1IjoiYWphbnplbiIsImEiOiJja20zbW8xbWYwOXhhMnhsY3lobm54eGExIn0.dgNx_huZHi6xjYl4nsIZ1g',
     }
   ).addTo(map);
   return map;
